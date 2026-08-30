@@ -1,0 +1,10 @@
+.expo/
+.metro/
+web-build/
+dist/
+
+node_modules/
+
+
+.npmignore
+*.log
